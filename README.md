@@ -1,7 +1,7 @@
 Coinxinha integration/staging tree
 ================================
 
-http://www.coinxinha.org
+http://coinxinha.dlinkddns.com
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Coinxinha Developers
@@ -19,7 +19,7 @@ The rest is the same as Bitcoin.
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Coinxinha client sofware, see http://www.coinxinha.org.
+the Coinxinha client sofware, see http://coinxinha.dlinkddns.com.
 
 License
 -------
@@ -45,7 +45,7 @@ match the project's coding conventions (see `doc/coding.txt`) or are
 controversial.
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/coinxinha-project/coinxinha/tags) are created
+completely stable. [Tags](https://github.com/welkervinicius/coinxinha/tags) are created
 regularly to indicate new official, stable release versions of Coinxinha.
 
 Testing
